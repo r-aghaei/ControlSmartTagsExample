@@ -1,6 +1,6 @@
 # Smart Tags (Task Panel or Custom Actions) for Control
 
-This example shows how you can create a task panel or smart tags window for your control at designer:
+This example shows how you can create smart tags window (task panel or custom actions) for your control at designer:
 
 ![smarttags](SmartTags.png)
 
